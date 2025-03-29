@@ -1,0 +1,50 @@
+html {
+    --bg-color: #6D2323;
+    --background-color: #eaebef;
+    --item-color: #FEF9E1;
+    --hg-color: #A31D1D;
+}
+
+body {
+    background-color: var(--background-color);
+    color: black;
+    font-family: 'Boldonse', sans-serif;
+    line-height: 1.6;
+}
+
+.intro-text {
+    text-align: center;
+    max-width: 1550px;
+    margin: 40px auto 40px auto;
+    font-family: 'Boldonse', sans-serif;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 7rem;
+    color: #6D2323;
+    font-family: 'Boldonse', serif;
+    margin: 40px;
+    text-align: center;
+}
+
+h2{
+    color: #A31D1D;
+    margin: 40px;
+    text-align: center;
+}
+
+  
+h3{
+    color: #A31D1D;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 50px;
+    text-align: center;
+  }
+
+  .redes-sociales {
+    margin: 60px auto;
+    text-align: center;
+  }
+  
